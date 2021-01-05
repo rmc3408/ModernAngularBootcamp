@@ -21,7 +21,7 @@ Course length: <b>45 hours</b>
 |---|---|---|---|
 |  01 | Welcome Start Here  | &check; |   |
 |  02 | Understanding Angular Template Syntax | &check;  | https://pw-rmc3408.vercel.app/ |
-|  03 | Building Components |   |   |
+|  03 | Building Components | &check;  | https://cards.rmc3408.vercel.app/  |
 |  04 | Exercise - Game |   |   |
 |  05 | Mastering Pipes |   |   |
 |  06 | Directives in Angular |   |   |
