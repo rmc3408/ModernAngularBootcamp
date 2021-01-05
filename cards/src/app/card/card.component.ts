@@ -8,6 +8,7 @@
 export class CardComponent implements OnInit {
   
   
+
   @Input() title = '';
   @Input() imageUrl = '';
   @Input() username = '';
